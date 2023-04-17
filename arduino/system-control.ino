@@ -11,19 +11,6 @@ void setup() {
 
 void loop() {
 
-  // if(digitalRead(BUTTON1)==1){
-  //   Serial.print("button1");
-  // }
-
-  // if(digitalRead(BUTTON2)==1){
-  //   Serial.print("button2");
-  // }
-
-  // if(digitalRead(BUTTON3)==1){
-  //   Serial.print("button3");
-  // }
-
-
   Serial.print(digitalRead(BUTTON1));
   Serial.print("+");
   Serial.print(digitalRead(BUTTON2));
