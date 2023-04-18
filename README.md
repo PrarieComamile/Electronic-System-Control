@@ -22,7 +22,7 @@ To use this project, you'll need the following:
 1. Connect the buttons and potentiometer to the Arduino Uno board as per the circuit diagram provided in the project files.
 2. Connect the Arduino Uno board to your computer using a USB cable.
 3. Open the `system_control.ino` file in the Arduino IDE and upload it to the Arduino board.
-4. Install the necessary libraries on your computer. The project is developed on a Linux platform and requires the following libraries:
+4. Install the necessary libraries on your computer. (The project is developed on a Linux platform and requires the following libraries):
     * PySerial
     * alsaaudio
     * pyautogui
