@@ -63,3 +63,11 @@ This project was developed on a Linux platform, and as such, certain changes may
 ![3a9e385a-ff30-42d0-8384-34eebfbe12a7](https://user-images.githubusercontent.com/101043132/232245887-974e5908-037e-4886-b315-e1cd3929dcdb.jpeg)
 
 
+
+## **Acknowledgments**
+
+This project was inspired by the need to automate repetitive tasks on a computer. Special thanks to [Vibasdo](https://github.com/Vibasdo) and the developers of PySerial, PyAlsaAudio and Pyautogui for making this project possible.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/PrarieComamile/electronic-system-control/blob/main/LICENSE) file for details.
