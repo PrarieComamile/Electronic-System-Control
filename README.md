@@ -71,3 +71,8 @@ This project was inspired by the need to automate repetitive tasks on a computer
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/PrarieComamile/electronic-system-control/blob/main/LICENSE) file for details.
+
+
+
+
+
