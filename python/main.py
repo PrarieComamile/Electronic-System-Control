@@ -21,7 +21,7 @@ def update():
     pyautogui.write("sudo apt update")
     pyautogui.press("enter")
     time.sleep(1)
-    pyautogui.write("partem1456")
+    pyautogui.write("[*Sisteminizin Şifresi]")
     pyautogui.press("enter")
     
 def func():
