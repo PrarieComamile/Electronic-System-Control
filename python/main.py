@@ -62,7 +62,7 @@ while True:
             time.sleep(0.1)
                 
     except:
-        print("turumturumturumtıraktikitak")
+        print("Hata!")
 
 
 
